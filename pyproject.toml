@@ -1,0 +1,14 @@
+[project]
+name = "qwq32b"
+description = "ComfyUI nodes to use [a/QwQ-32B](https://huggingface.co/Qwen/QwQ-32B)"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/leeguandong/ComfyUI_QWQ32B"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_QWQ32B"
+Icon = ""
